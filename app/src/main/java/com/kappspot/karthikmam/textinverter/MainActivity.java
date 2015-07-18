@@ -20,8 +20,7 @@ import static android.view.View.*;
 
 public class MainActivity extends Activity implements DialogInterface.OnClickListener{
 
-
-    char invertedCharactersLower[] = { 'z', 'ʎ', 'x', 'ʍ', 'ʌ', 'n', 'ʇ', 's', 'ɹ', 'b', 'd', 'o', 'u', 'ɯ', 'l', 'ʞ', 'ɾ', 'ᴉ', 'ɥ', 'ƃ', 'ɟ', 'ǝ', 'p', 'ɔ', 'q', 'ɐ' };
+    char invertedCharactersLower[] = { 'z', 'ʎ', 'x', 'ʍ', 'ʌ', 'n', 'ʇ', 's', 'ɹ', 'b', 'd', 'o', 'u', 'ɯ', 'l', 'ʞ', 'ɾ', 'ı', 'ɥ', 'Ƃ', 'ɟ', 'ǝ', 'p', 'ɔ', 'q', 'ɐ' };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
